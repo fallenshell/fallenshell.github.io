@@ -1,0 +1,6 @@
+---
+published: true
+title: Hello!
+layout: post
+---
+Welcome to my new blog.
