@@ -2,7 +2,7 @@ excerpt_separator: ""
 pygments: true
 markdown: kramdown
 url: http://fallenshell.github.io
-title: fallenshell
-tagline: Thoughts.find(*)
-description: Hello, this is my personal blog. Where I talk about things. Code things.
+title: "@fallenshell"
+tagline: "Thoughts.find(*)"
+description: "Hello, this is my personal blog. Where I talk about things. Code things."
 paginate: 5
