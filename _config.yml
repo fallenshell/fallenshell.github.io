@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://fallenshell.github.io
 title: "@fallenshell"
 tagline: "Thoughts.find(*)"
-description: "Hello, this is @fallenshell's blog. Where he talks about things. Code things. And the occasional social critique."
+description: "Hello, this is my blog. Where I rant on code, life, and science."
 paginate: 5
