@@ -1,5 +1,5 @@
 #headerf {
-  font-family: Open Sans;
-  font-weight: 300
-  color: white
+  font-family: Open Sans !important;
+  font-weight: 300 !important;
+  color: white !important;
 }
